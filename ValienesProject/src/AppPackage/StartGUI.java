@@ -39,7 +39,7 @@ public class StartGUI extends javax.swing.JFrame {
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         nume.setForeground(new java.awt.Color(153, 0, 153));
-        nume.setText("Guess what Ana?");
+        nume.setText("Ghici ce Ana?");
         getContentPane().add(nume, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 20, 230, 50));
 
         GuessField.setText(" ");
